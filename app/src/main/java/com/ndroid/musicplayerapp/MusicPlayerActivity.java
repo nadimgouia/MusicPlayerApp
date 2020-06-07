@@ -124,8 +124,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         return  elapsedTime;
     }
 
-
-
     @Override
     public void onClick(View view) {
         if(view.getId() == R.id.btnPlay) {
